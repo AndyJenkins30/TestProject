@@ -243,7 +243,6 @@ GameObject:
   m_Component:
   - 4: {fileID: 842650107}
   - 33: {fileID: 842650106}
-  - 65: {fileID: 842650105}
   - 23: {fileID: 842650104}
   m_Layer: 0
   m_Name: Cube
@@ -278,18 +277,6 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
---- !u!65 &842650105
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 842650103}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &842650106
 MeshFilter:
   m_ObjectHideFlags: 0
